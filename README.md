@@ -7,13 +7,19 @@ yaklaşık 10 saniye içinde size sadece	devamlılık ve not beklentisi sorusunu
 Sadece [NodeJS](https://nodejs.org/en) indirip kurmanız yeterli olacaktır.
 LTS sürümünü indirin.
 
+> [!NOTE]  
+> Kendi ağınıza bağlıyken çalıştırmak daha etkili olacaktır.
+
 ## Adımlar
 
 1 ) Bu depoyu indir
 > ![ANKET1](https://github.com/yalinn/cankaya-uni-anket/assets/64890076/28b180a4-7ae9-4d45-b564-84ae96a0e417)
 
 2 ) "index.js" dosyasına kullanıcı adı ve parolanı gir
-3 ) terminale sırasıyla alttaki komutları gir:
+> [!NOTE]
+> Kullanıcı adı ve şifreyi index.js dosyasında yazmak için dosyayı notepad ile açın.
+
+3 ) terminale sırasıyla alttaki komutları gir ya da `calistir.bat` dosyasını çalıştır:
 ```
 npm i
 ```
