@@ -1,6 +1,6 @@
 Çankaya Üniversitesi'nin sana zorla anket çözdürmesinden bıktın mı?
 Parmağına 5'e basmaktan ağrı mı girdi?
-# Her dersin anketinin her soruna "Kesinlikle katılıyorum" cevaplayıcı
+# Her dersin anketinin her sorusuna "Kesinlikle katılıyorum" cevaplayıcı
 yaklaşık 10 saniye içinde size sadece	devamlılık ve not beklentisi sorusunu işaretlemek kalacak.
 
 ## Gereksinimler
